@@ -1,0 +1,152 @@
+[
+  {
+    "domain": "alex.com",
+    "redirect_location": "https://apriora-app.us.auth0.com/authorize?client_id=RiE55PCg6vFVgR2ORQyAugHTkCRFaAi5&redirect_uri=https%3A%2F%2Fmcp.alex.com%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=eyJjbGllbnRfaWQiOiJleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKMGVYQmxJam9pYldOd1gyTnNhV1Z1ZENJc0ltTnNhV1Z1ZEU1aGJXVWlPaUp0WTNBdFkyeHBaVzUwTFdGc1pYZ3RZMjl0SWl3aWNtVmthWEpsWTNSVmNtbHpJanBiSW1oMGRIQnpPaTh2WTJ4aGRXUmxMbUZwTDJGd2FTOXRZM0F2WVhWMGFGOWpZV3hzWW1GamF5SXNJbWgwZEhBNkx5OHhNamN1TUM0d0xqRXZZMkZzYkdKaFkyc2lYU3dpYVdGMElqb3hOemd6T0RnMU9USTNMQ0psZUhBaU9qRTNPRFkwTnpjNU1qZDkucnBQaW84MmwwTThSNFB2X04tQi02cjRhOTZtejV0Qmx2OE4xQlVHa1dwTSIsInJlZGlyZWN0X3VyaSI6Imh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3AvYXV0aF9jYWxsYmFjayIsImNvZGVfY2hhbGxlbmdlIjoielMwVUNYSFA4b3Vvb2p4NHpDUy1TY2J2WmFwNmxVaGlNaU56YVpqZl9jUSIsInN0YXRlIjoiYzhlNDA0Mzg1NmNjNGJjNyIsInNjb3BlIjoibWNwOnJlYWQgbWNwOnRvb2xzIn0",
+    "state_raw": "eyJjbGllbnRfaWQiOiJleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKMGVYQmxJam9pYldOd1gyTnNhV1Z1...",
+    "state_decoded": "{\"client_id\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoibWNwX2NsaWVudCIsImNsaWVudE5hbWUiOiJtY3AtY2xpZW50LWFsZXgtY29tIiwicmVkaXJlY3RVcmlzIjpbImh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3AvYXV0aF9jYWxsYmFjayIsImh0dHA6Ly8xMjcuMC4wLjEvY2FsbGJhY2siXSwiaWF0IjoxNzgzODg1OTI3LCJleHAiOjE3ODY0Nzc5Mjd9.rpPio82l0M8R4Pv_N-B-6r4a96mz5tBlv8N1BUGkWpM\",\"redirect_uri\":\"https://claude.ai/api/mcp/auth_callback\",\"code_challenge\":\"zS0UCXHP8ouoojx4zCS-ScbvZap6lUhiMiNzaZjf_cQ\",\"state\":\"c8e4043856cc4bc7\",\"scope\":\"mcp:read mcp:tools\"}"
+  },
+  {
+    "domain": "agent.ai",
+    "redirect_location": "https://agent-ai.us.auth0.com/authorize?response_type=code&client_id=1LCgjflccW0GsSWxA0zZkwhnG1Ay5pF7&redirect_uri=https%3A%2F%2Fmcp.agent.ai%2Foauth%2Fcallback&code_challenge=XpdHv1MmODMGzOctnOLP9Ef8UKP6dmXCFAOVkS--kk8&code_challenge_method=S256&scope=mcp%3Aaccess&state=eyJyZWRpcmVjdF91cmkiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2siLCJvcmlnaW5hbF9zdGF0ZSI6Ijk0NmQ0NWM5ZjRjZDQxZTEiLCJjbGllbnRfaWQiOiIxTENnamZsY2NXMEdzU1d4QTB6Wmt3aG5HMUF5NXBGNyIsInRzIjoxNzgzODg2MTMzfXw3OWQ5MjU0NzM5YTk5NTliNDEyNDg0MGRlOTVjOThkYjUxN2Y2MjU0ODZmNmMwMTU5ZWRhY2ExMzdiODM5ZjRi&audience=https%3A%2F%2Fmcp.agent.ai%2Fmcp",
+    "state_raw": "eyJyZWRpcmVjdF91cmkiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2siLCJvcmlnaW5hbF9zdGF0ZSI6...",
+    "state_decoded": "{\"redirect_uri\":\"https://claude.ai/api/mcp/auth_callback\",\"original_state\":\"946d45c9f4cd41e1\",\"client_id\":\"1LCgjflccW0GsSWxA0zZkwhnG1Ay5pF7\",\"ts\":1783886133}|79d9254739a9959b4124840de95c98db517f625486f6c0159edaca137b839f4b"
+  },
+  {
+    "domain": "altuspower.com",
+    "redirect_location": "https://login.microsoftonline.com/eaf7bc3e-47ec-4260-bb30-610338b1de93/oauth2/v2.0/authorize?response_type=code&client_id=ca75e12c-14a3-4997-975d-bf33db317986&redirect_uri=https%3A%2F%2Fmcp.altuspower.com%2Foauth%2Fcallback&code_challenge=dy7fZxlPhrzjzej4VWdTMNjZYIuwBb19WaeEFJWRMvY&code_challenge_method=S256&scope=openid+api%3A%2F%2Fca75e12c-14a3-4997-975d-bf33db317986%2FMCP.Read&state=eyJyIjogImh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3AvYXV0aF9jYWxsYmFjayIsICJzIjogIjYyNzMxYTY3ODFjMDRiNTkifQ%3D%3D",
+    "state_raw": "eyJyIjogImh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3AvYXV0aF9jYWxsYmFjayIsICJzIjogIjYyNzMxYTY3ODFjMDRiNTkifQ==",
+    "state_decoded": "{\"r\": \"https://claude.ai/api/mcp/auth_callback\", \"s\": \"62731a6781c04b59\"}"
+  },
+  {
+    "domain": "aquion.com.au",
+    "redirect_location": "https://login.microsoftonline.com/782c5084-0980-46fe-9eed-542a61c6a1eb/oauth2/v2.0/authorize?client_id=5851f4e9-98a8-4e78-a823-da2277913e4b&response_type=code&redirect_uri=https%3A%2F%2Fmcp.aquion.com.au%2Foauth%2Fcallback&scope=openid+profile+email&state=eyJjbGllbnRJZCI6ImNsYXVkZS0xNzgzODg1OTI5MjY0LWhqaDFtciIsInJlZGlyZWN0VXJpIjoiaHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrIiwib3JpZ2luYWxTdGF0ZSI6Ijg0NmY4YTY4ZWM5OTRhNDQifQ&response_mode=query",
+    "state_raw": "eyJjbGllbnRJZCI6ImNsYXVkZS0xNzgzODg1OTI5MjY0LWhqaDFtciIsInJlZGlyZWN0VXJpIjoiaHR0cHM6Ly9jbGF1ZGUuYWkv...",
+    "state_decoded": "{\"clientId\":\"claude-1783885929264-hjh1mr\",\"redirectUri\":\"https://claude.ai/api/mcp/auth_callback\",\"originalState\":\"846f8a68ec994a44\"}"
+  },
+  {
+    "domain": "binderr.com",
+    "redirect_location": "https://napkin.binderr.com/oauth2?response_type=code&client_id=pbl-tXEAbMfAzA&redirect_uri=https://mcp.binderr.com/callback&state=eyJyIjoiaHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrIiwicyI6Ijc0NjU0YzI2MzZiYjQ5MmYifQ&scope=mcp:read%20mcp:tools",
+    "state_raw": "eyJyIjoiaHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrIiwicyI6Ijc0NjU0YzI2MzZiYjQ5MmYifQ",
+    "state_decoded": "{\"r\":\"https://claude.ai/api/mcp/auth_callback\",\"s\":\"74654c2636bb492f\"}"
+  },
+  {
+    "domain": "atomic.supply",
+    "redirect_location": "https://auth.mcp.atomic.supply/oauth2/authorize?client_id=3h2ehv6i1f3no4timbqiuu2l2a&response_type=code&scope=openid+email+profile&redirect_uri=https://mcp.atomic.supply/oauth/callback&state=eyJjbGllbnRfaWQiOiAiYzVNRVVpZHJ6NmE3TkxpLXVvTm85QSIsICJyZWRpcmVjdF91cmkiOiAiaHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrIiwgInJlc3BvbnNlX3R5cGUiOiAiY29kZSIsICJjb2RlX2NoYWxsZW5nZSI6ICJIZkd0MmM0WHdveEZQV2Q3cG1VdENGS0JtNlB4SjJuaGZuc0NQTW8wcEpFIiwgImNvZGVfY2hhbGxlbmdlX21ldGhvZCI6ICJTMjU2IiwgInNjb3BlIjogIm1jcDpyZWFkIG1jcDp0b29scyIsICJzdGF0ZSI6ICIxNzNkNTg4NWRkYTY0ODEzIn0",
+    "state_raw": "eyJjbGllbnRfaWQiOiAiYzVNRVVpZHJ6NmE3TkxpLXVvTm85QSIsICJyZWRpcmVjdF91cmkiOiAiaHR0cHM6Ly9jbGF1ZGUuYWkv...",
+    "state_decoded": "{\"client_id\": \"c5MEUidrz6a7NLi-uoNo9A\", \"redirect_uri\": \"https://claude.ai/api/mcp/auth_callback\", \"response_type\": \"code\", \"code_challenge\": \"HfGt2c4XwoxFPWd7pmUtCFKBm6PxJ2nhfnsCPMo0pJE\", \"code_challenge_method\": \"S256\", \"scope\": \"mcp:read mcp:tools\", \"state\": \"173d5885dda64813\"}"
+  },
+  {
+    "domain": "databox.com",
+    "redirect_location": "https://auth.databox.com/oauth2/authorize?client_id=7c17aa33-d4e8-448c-8ef9-15afe9dcf29f&nonce=38FRjs-gP0WcGpYCSmLLngOoeR1oO8kOuwrLE_I9dm8&redirect_uri=https%3A%2F%2Fauth-api.databox.com%2Fcallback%2Fauthorize%3Fclient_id%3D7c17aa33-d4e8-448c-8ef9-15afe9dcf29f&response_type=code&state=eyJjbGllbnRTdGF0ZSI6ImM4ZDNmMmY3MjA1NTQwMGIiLCJjbGllbnRJZCI6IjdjMTdhYTMzLWQ0ZTgtNDQ4Yy04ZWY5LTE1YWZlOWRjZjI5ZiIsImR5bmFtaWNDbGllbnRJZCI6Im1jcF9leUpPWVcxbElqb2liV053TFdOc2FXVnVkQzFrWVhSaFltOTRMV052YlNJc0lsSmxaR2x5WldOMFZYSnBJam9pYUhSMGNITTZMeTlqYkdGMVpHVXVZV2t2WVhCcEwyMWpjQzloZFhSb1gyTmhiR3hpWVdOckluMD0iLCJkeW5hbWljQ2xpZW50U2NvcGVzIjpbImFwaTpyZWFkIiwiYXBpOndyaXRlIl0sImR5bmFtaWNDbGllbnRSZWRpcmVjdFVyaSI6Imh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3AvYXV0aF9jYWxsYmFjayJ9&tenantId=0c7593e4-9d4a-43c1-c851-e333d382e54f&showPasswordField=true&scope=mcp%3Aread%20mcp%3Atools%20openid%20offline_access%20api%3Aread%20api%3Awrite&code_challenge=vrmm4EaRL5tNVDCsMSijMYdiWTgK85QA7v3_ww2hIPw&code_challenge_method=S256",
+    "state_raw": "eyJjbGllbnRTdGF0ZSI6ImM4ZDNmMmY3MjA1NTQwMGIiLCJjbGllbnRJZCI6IjdjMTdhYTMzLWQ0ZTgtNDQ4Yy04ZWY5LTE1YWZl...",
+    "state_decoded": "{\"clientState\":\"c8d3f2f72055400b\",\"clientId\":\"7c17aa33-d4e8-448c-8ef9-15afe9dcf29f\",\"dynamicClientId\":\"mcp_eyJOYW1lIjoibWNwLWNsaWVudC1kYXRhYm94LWNvbSIsIlJlZGlyZWN0VXJpIjoiaHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrIn0=\",\"dynamicClientScopes\":[\"api:read\",\"api:write\"],\"dynamicClientRedirectUri\":\"https://claude.ai/api/mcp/auth_callback\"}"
+  },
+  {
+    "domain": "digiteka.com",
+    "redirect_location": "https://accounts.google.com/o/oauth2/v2/auth?client_id=158044844811-oj0nftpretlutlb9iugglrg7gs72i3mm.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fmcp.digiteka.com%2Fcallback%2Flogin&response_type=code&scope=openid+email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.labels&state=eyJjbGllbnRJZCI6Im1jcC00N2NiNDZjZmFlOTllNDZkNGE3MDU2YTZhYTRkNDFiOCIsInJlZGlyZWN0VXJpIjoiaHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrIiwiY29kZUNoYWxsZW5nZSI6IjZDOEplOFRHTnU1TW9QemI4R1p0VG9lYmVIN3hNMXBDLTNHVXBxWDR3SjgiLCJjb2RlQ2hhbGxlbmdlTWV0aG9kIjoiUzI1NiIsImNsaWVudFN0YXRlIjoiOTAyZDhmNzdkMWM3NGM0OSIsInNjb3BlIjoibWNwOnJlYWQgbWNwOnRvb2xzIn0&access_type=offline&prompt=consent&hd=digiteka.com",
+    "state_raw": "eyJjbGllbnRJZCI6Im1jcC00N2NiNDZjZmFlOTllNDZkNGE3MDU2YTZhYTRkNDFiOCIsInJlZGlyZWN0VXJpIjoiaHR0cHM6Ly9j...",
+    "state_decoded": "{\"clientId\":\"mcp-47cb46cfae99e46d4a7056a6aa4d41b8\",\"redirectUri\":\"https://claude.ai/api/mcp/auth_callback\",\"codeChallenge\":\"6C8Je8TGNu5MoPzb8GZtToebeH7xM1pC-3GUpqX4wJ8\",\"codeChallengeMethod\":\"S256\",\"clientState\":\"902d8f77d1c74c49\",\"scope\":\"mcp:read mcp:tools\"}"
+  },
+  {
+    "domain": "easesolutions.com",
+    "redirect_location": "https://auth.atlassian.com/authorize?audience=api.atlassian.com&client_id=j0nY3uqhmfCaEuCpuwn6Y7aLgzjgSiLU&scope=read:jira-work%20write:jira-work%20offline_access&redirect_uri=https://mcp.easesolutions.com/oauth/callback&response_type=code&prompt=consent&state=aHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrfDY2N2YxNzkyMWQ2NTQzMWR8RGQ4VFJmWTVaV3NGME5hVE0wUWYxbUpmV2J2clJqSVBEZDJhRTF6TDlqST0%3D",
+    "state_raw": "aHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrfDY2N2YxNzkyMWQ2NTQzMWR8RGQ4VFJmWTVaV3NGME5hVE0w...",
+    "state_decoded": "https://claude.ai/api/mcp/auth_callback|667f17921d65431d|Dd8TRfY5ZWsF0NaTM0Qf1mJfWbvrRjIPDd2aE1zL9jI="
+  },
+  {
+    "domain": "foresight.ai",
+    "redirect_location": "https://foresightdata.frontegg.com/oauth/authorize?client_id=504265e3-c3f9-4736-8fee-81d1627f451b&redirect_uri=https%3A%2F%2Fmcp.foresightdata.com%2Foauth%2Fcallback&response_type=code&state=eyJvcmlnaW5hbF9yZWRpcmVjdF91cmkiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2siLCJvcmlnaW5hbF9zdGF0ZSI6IjBiMGM3NWU5ZmMwYjQzN2QiLCJ0aW1lc3RhbXAiOjE3ODM4ODYxMzgzMjl9&code_challenge=H1GJB9FL7ujfGLzLi21olmuuP5ZZDCYEkMWdzc9cLao&code_challenge_method=S256&scope=mcp%3Aread+mcp%3Atools",
+    "state_raw": "eyJvcmlnaW5hbF9yZWRpcmVjdF91cmkiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2siLCJvcmlnaW5h...",
+    "state_decoded": "{\"original_redirect_uri\":\"https://claude.ai/api/mcp/auth_callback\",\"original_state\":\"0b0c75e9fc0b437d\",\"timestamp\":1783886138329}"
+  },
+  {
+    "domain": "hellodarwin.com",
+    "redirect_location": "https://auth.hellodarwin.com/authorize?response_type=code&client_id=8BKINDNqGkxWv2h1Z22WO3i5kZYNZTfA&redirect_uri=https%3A%2F%2Fapi.hellodarwin.com%2Foauth%2Fcallback&scope=openid+profile+email+offline_access&audience=api.hellodarwin.com&code_challenge=Y4kBxF_kXA_MpXu-Cmeyh3dBt3btjI7IZ-BwOuTIXoo&code_challenge_method=S256&state=eyJyZWRpcmVjdF91cmkiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2siLCJzdGF0ZSI6IjNlYzJhZjkxMTYwYzQ4NmQifQ%3D%3D",
+    "state_raw": "eyJyZWRpcmVjdF91cmkiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2siLCJzdGF0ZSI6IjNlYzJhZjkx...",
+    "state_decoded": "{\"redirect_uri\":\"https://claude.ai/api/mcp/auth_callback\",\"state\":\"3ec2af91160c486d\"}"
+  },
+  {
+    "domain": "hubbl.com",
+    "redirect_location": "https://auth.hubbl.com/authorize?response_type=code&client_id=tw7AAnNxaAGAN9Jy9LXK9cZ3XrOKNbue&code_challenge=YvpP0BifttPjE0Pi15ZgRn--mpT3Opc02HUOvuTyLOo&code_challenge_method=S256&scope=mcp%3Aread+mcp%3Atools&state=eyJzIjoiMWQ3NWYyMzhkYjVhNDFkMCIsInIiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2sifQ&redirect_uri=https%3A%2F%2Fmcp.hubbl.com%2Fcallback&audience=hubbl%3Aapi",
+    "state_raw": "eyJzIjoiMWQ3NWYyMzhkYjVhNDFkMCIsInIiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2sifQ",
+    "state_decoded": "{\"s\":\"1d75f238db5a41d0\",\"r\":\"https://claude.ai/api/mcp/auth_callback\"}"
+  },
+  {
+    "domain": "healthkey.health",
+    "redirect_location": "https://auth-server.healthkey.health/o/authorize/?client_id=vrm2wxhkUVRReYK2N0EI9mWrwC6uy7upYjRhemtj&response_type=code&redirect_uri=https%3A%2F%2Fmcp.healthkey.health%2Fauthorize&code_challenge=WUC6OYnMLryVg7fTPzhkmJ9oQJzbxOkJpFE1rdZXtoA&code_challenge_method=S256&state=eyJzIjoiYmM3NTQ2Zjg4NTRlNGI1YyIsInIiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2sifQ&scope=mcp%3Aread+mcp%3Atools",
+    "state_raw": "eyJzIjoiYmM3NTQ2Zjg4NTRlNGI1YyIsInIiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2sifQ",
+    "state_decoded": "{\"s\":\"bc7546f8854e4b5c\",\"r\":\"https://claude.ai/api/mcp/auth_callback\"}"
+  },
+  {
+    "domain": "hyperline.co",
+    "redirect_location": "https://auth.hyperline.co/authorize?client_id=XI3rlUa6e5zU3hIiQrbbSgxWcby3g0rJ&redirect_uri=https%3A%2F%2Fapi.hyperline.co%2Foauth%2Fcallback&state=eyJjbGllbnRTdGF0ZSI6ImQ5OWVhYmZiZTVjNzRkMzciLCJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3AvYXV0aF9jYWxsYmFjayIsImNsaWVudElkIjoiZHluXzdlMTEyYzFiLTVkYWYtNGFhNy1iOTE0LWVlY2ZlMjdjNzdhNiJ9&audience=https%3A%2F%2Fapi.hyperline.co%2Fpublic&response_type=code&scope=mcp%3Aread+mcp%3Atools&code_challenge=5wmEYs1rWjbpSS1JdPAHJczSAqwZ3b0um3uQr0H-Qpw&code_challenge_method=S256",
+    "state_raw": "eyJjbGllbnRTdGF0ZSI6ImQ5OWVhYmZiZTVjNzRkMzciLCJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3Av...",
+    "state_decoded": "{\"clientState\":\"d99eabfbe5c74d37\",\"redirectUri\":\"https://claude.ai/api/mcp/auth_callback\",\"clientId\":\"dyn_7e112c1b-5daf-4aa7-b914-eecfe27c77a6\"}"
+  },
+  {
+    "domain": "katanamrp.com",
+    "redirect_location": "https://login.katanamrp.com/authorize?response_type=code&client_id=mjvjljd93AT4J15uDcMqZ3Ltl1vvcAKP&redirect_uri=https%3A%2F%2Fmcp.katanamrp.com%2Fcallback&code_challenge=L0zL2wjxTpvv2v078NG0JtQzpJgBB0oa0xnsSAqMtcg&code_challenge_method=S256&scope=mcp%3Aread+mcp%3Atools&state=eyJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3AvYXV0aF9jYWxsYmFjayIsInN0YXRlIjoiMmI3ZmFhYTQ4ODY1NDViMyJ9&audience=https%3A%2F%2Fapi.katanamrp.com",
+    "state_raw": "eyJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3AvYXV0aF9jYWxsYmFjayIsInN0YXRlIjoiMmI3ZmFhYTQ4...",
+    "state_decoded": "{\"redirectUri\":\"https://claude.ai/api/mcp/auth_callback\",\"state\":\"2b7faaa4886545b3\"}"
+  },
+  {
+    "domain": "kuradashi.jp",
+    "redirect_location": "https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&prompt=consent&scope=openid%20email%20profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fspreadsheets%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.modify%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fpresentations%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdocuments%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&state=eyJtY3BDbGllbnRJZCI6IjA2YmIzNDZmLTljYTgtNDhiMi1hYjJmLTdiNmY1MjJlYjNkNyIsImNvZGVDaGFsbGVuZ2UiOiJzUHlKUnAzdGtsYmRPZy1YbGtzX3dHMG5fa2pFVlJIWktCWFowRXFlMUU0IiwicmVkaXJlY3RVcmkiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2siLCJzY29wZXMiOlsibWNwOnJlYWQiLCJtY3A6dG9vbHMiXSwic3RhdGUiOiI4NjJlZWU2NmFjODc0YmI4In0&include_granted_scopes=true&hd=kuradashi.jp&response_type=code&client_id=838764917281-gdoqb9a2g7juoaglu97c4bjquirk2t8c.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fmcp.kuradashi.jp%2Foauth%2Fgoogle%2Fcallback",
+    "state_raw": "eyJtY3BDbGllbnRJZCI6IjA2YmIzNDZmLTljYTgtNDhiMi1hYjJmLTdiNmY1MjJlYjNkNyIsImNvZGVDaGFsbGVuZ2UiOiJzUHlK...",
+    "state_decoded": "{\"mcpClientId\":\"06bb346f-9ca8-48b2-ab2f-7b6f522eb3d7\",\"codeChallenge\":\"sPyJRp3tklbdOg-Xlks_wG0n_kjEVRHZKBXZ0Eqe1E4\",\"redirectUri\":\"https://claude.ai/api/mcp/auth_callback\",\"scopes\":[\"mcp:read\",\"mcp:tools\"],\"state\":\"862eee66ac874bb8\"}"
+  },
+  {
+    "domain": "klealegal.com",
+    "redirect_location": "https://login.legalstudio.be/authorize?response_type=code&client_id=tBYV5bADElEXxf4oQppToi9V0Rfxkxy9&redirect_uri=https%3A%2F%2Fmcp.klealegal.com%2Foauth%2Fcallback&code_challenge=je2uycdCSdJvDWrvv2szOAW5kBjCWozBPSgNpjiAFMc&code_challenge_method=S256&scope=mcp%3Aread+mcp%3Atools+openid+profile+email+offline_access&state=eyJzIjoiM2M0ZjRjM2U3OWM1NGJhZiIsInIiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2sifQ&audience=https%3A%2F%2Fapp.legalstudio.be%2Fmcp%2Fv1",
+    "state_raw": "eyJzIjoiM2M0ZjRjM2U3OWM1NGJhZiIsInIiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2sifQ",
+    "state_decoded": "{\"s\":\"3c4f4c3e79c54baf\",\"r\":\"https://claude.ai/api/mcp/auth_callback\"}"
+  },
+  {
+    "domain": "marq.com",
+    "redirect_location": "https://app.marq.com/oauth2/authorize?response_type=code&client_id=3-6jErDS5ou_b9dGcpUA9JwkPxRsmD0xaqyGC96y&redirect_uri=https%3A%2F%2Fmcp.marq.com%2Foauth%2Fmarq%2Fcallback&scope=offline_access&state=eyJtY3BDb2RlIjoiYmUwMWFiNzQtZGNhMy00NTViLWI3YTAtMGZiYTE2NmIxN2I5IiwiY3NyZiI6IjE0OGRhMDRkLWI3MzMtNDdhYS1hYjRhLTk1NzIwNzk0Yjk2MSIsInJlZGlyZWN0VXJpIjoiaHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrIiwic3RhdGUiOiI2ZjRmYzg4OTA5NWQ0M2NmIn0",
+    "state_raw": "eyJtY3BDb2RlIjoiYmUwMWFiNzQtZGNhMy00NTViLWI3YTAtMGZiYTE2NmIxN2I5IiwiY3NyZiI6IjE0OGRhMDRkLWI3MzMtNDdh...",
+    "state_decoded": "{\"mcpCode\":\"be01ab74-dca3-455b-b7a0-0fba166b17b9\",\"csrf\":\"148da04d-b733-47aa-ab4a-95720794b961\",\"redirectUri\":\"https://claude.ai/api/mcp/auth_callback\",\"state\":\"6f4fc889095d43cf\"}"
+  },
+  {
+    "domain": "podio.com",
+    "redirect_location": "https://podio.com/oauth/authorize?client_id=podio-mcp&redirect_uri=https%3A%2F%2Fmcp.podio.com%2Foauth%2Fcallback&scope=global%3Aall&state=eyJwZW5kaW5nSWQiOiI2ZGQxYjQ4Yy1mODRhLTQ3NGEtOWQ1Ni04Zjc3ZDI3MDI4MGEifQ",
+    "state_raw": "eyJwZW5kaW5nSWQiOiI2ZGQxYjQ4Yy1mODRhLTQ3NGEtOWQ1Ni04Zjc3ZDI3MDI4MGEifQ",
+    "state_decoded": "{\"pendingId\":\"6dd1b48c-f84a-474a-9d56-8f77d270280a\"}"
+  },
+  {
+    "domain": "sanity.io",
+    "redirect_location": "https://api.sanity.io/v1/auth/oauth/authorize?response_type=code&client_id=oc-fefad2f88476&redirect_uri=https%3A%2F%2Fmcp.sanity.io%2Foauth%2Fcallback&code_challenge=xF_33pNvP2nBy_da7fNYP1StDT9RgjwnndNBA2tGarw&code_challenge_method=S256&state=eyJzdGF0ZSI6ImFmMjU3MTM2NzA0MjRiZDUiLCJzY29wZXMiOlsibWNwOnJlYWQiLCJtY3A6dG9vbHMiXSwicmVkaXJlY3RVcmkiOiJodHRwczovL2NsYXVkZS5haS9hcGkvbWNwL2F1dGhfY2FsbGJhY2siLCJjb2RlQ2hhbGxlbmdlIjoieEZfMzNwTnZQMm5CeV9kYTdmTllQMVN0RFQ5Umdqd25uZE5CQTJ0R2FydyJ9&scope=mcp%3Aread+mcp%3Atools",
+    "state_raw": "eyJzdGF0ZSI6ImFmMjU3MTM2NzA0MjRiZDUiLCJzY29wZXMiOlsibWNwOnJlYWQiLCJtY3A6dG9vbHMiXSwicmVkaXJlY3RVcmki...",
+    "state_decoded": "{\"state\":\"af25713670424bd5\",\"scopes\":[\"mcp:read\",\"mcp:tools\"],\"redirectUri\":\"https://claude.ai/api/mcp/auth_callback\",\"codeChallenge\":\"xF_33pNvP2nBy_da7fNYP1StDT9RgjwnndNBA2tGarw\"}"
+  },
+  {
+    "domain": "revolutionre.com",
+    "redirect_location": "https://auth.revolutionre.com/oauth2/authorize?response_type=code&client_id=u4hv3eaqsenpq19v448f7npvj&redirect_uri=https%3A%2F%2Fmcp.revolutionre.com%2Fcallback&scope=mcp%3Aread+mcp%3Atools&state=eyJydSI6Imh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3AvYXV0aF9jYWxsYmFjayIsInN0IjoiNGExYjk1MWViYjUyNGM4ZiJ9&code_challenge=oun4crZpGPb8PchAbwMea1oOwxY8a0tIMclRtfhoaSs&code_challenge_method=S256",
+    "state_raw": "eyJydSI6Imh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3AvYXV0aF9jYWxsYmFjayIsInN0IjoiNGExYjk1MWViYjUyNGM4ZiJ9",
+    "state_decoded": "{\"ru\":\"https://claude.ai/api/mcp/auth_callback\",\"st\":\"4a1b951ebb524c8f\"}"
+  },
+  {
+    "domain": "wallector.com",
+    "redirect_location": "https://accounts.google.com/o/oauth2/v2/auth?client_id=236116568756-v1t9qkr2uvk05jg9s52br5vsi34ft1p6.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fmcp.wallector.com%2Foauth%2Fcallback&response_type=code&scope=mcp%3Aread+mcp%3Atools&state=eyJyIjoiaHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrIiwicyI6IjZlYWQzNjlhNGRhYTQ5ZTMifQ%3D%3D&access_type=offline&prompt=consent",
+    "state_raw": "eyJyIjoiaHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrIiwicyI6IjZlYWQzNjlhNGRhYTQ5ZTMifQ==",
+    "state_decoded": "{\"r\":\"https://claude.ai/api/mcp/auth_callback\",\"s\":\"6ead369a4daa49e3\"}"
+  },
+  {
+    "domain": "tigerofsweden.com",
+    "redirect_location": "https://login.microsoftonline.com/fde2eb09-0f9a-4c4d-996c-ceb3d481c1f2/oauth2/v2.0/authorize?client_id=86dbac92-ef4f-40f4-a617-935f77ec15f4&response_type=code&redirect_uri=https%3A%2F%2Fmcp.tigerofsweden.com%2Fentra%2Fcallback&scope=86dbac92-ef4f-40f4-a617-935f77ec15f4%2F.default%20openid%20profile%20offline_access&state=eyJtY3BfY2xpZW50X2lkIjogIjBmYmUwMTVkYjM0NjZjNTE5ZTVjZDhkMDg5NDEyZDlmIiwgIm1jcF9yZWRpcmVjdF91cmkiOiAiaHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrIiwgIm1jcF9zdGF0ZSI6ICJlZjkyYTAxNGZkNDU0YzQwIiwgIm1jcF9jb2RlX2NoYWxsZW5nZSI6ICJURDhFTVJTRkRyaVNESG9UaWVCZXJYTmxzc3JIZERVSV82UVBvWFl2M3ZnIiwgIm1jcF9zY29wZXMiOiBbIm1jcDpyZWFkIiwgIm1jcDp0b29scyJdLCAibWNwX3JlZGlyZWN0X3VyaV9leHBsaWNpdCI6IHRydWV9&response_mode=query",
+    "state_raw": "eyJtY3BfY2xpZW50X2lkIjogIjBmYmUwMTVkYjM0NjZjNTE5ZTVjZDhkMDg5NDEyZDlmIiwgIm1jcF9yZWRpcmVjdF91cmkiOiAi...",
+    "state_decoded": "{\"mcp_client_id\": \"0fbe015db3466c519e5cd8d089412d9f\", \"mcp_redirect_uri\": \"https://claude.ai/api/mcp/auth_callback\", \"mcp_state\": \"ef92a014fd454c40\", \"mcp_code_challenge\": \"TD8EMRSFDriSDHoTieBerXNlssrHdDUI_6QPoXYv3vg\", \"mcp_scopes\": [\"mcp:read\", \"mcp:tools\"], \"mcp_redirect_uri_explicit\": true}"
+  },
+  {
+    "domain": "wiv.ai",
+    "redirect_location": "https://auth.wiv.ai/oauth/2.1/authorize?client_id=0a034682a7e1d7ec2c61f2efb078de7e&redirect_uri=https%3A//mcp.wiv.ai/oauth/callback&response_type=code&state=eyJmbG93IjogIm1jcF9vYXV0aCIsICJjbGllbnRfcmVkaXJlY3RfdXJpIjogImh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3AvYXV0aF9jYWxsYmFjayIsICJjbGllbnRfc3RhdGUiOiAiNjQwMGYwNTY3MTY4NDQyOSIsICJjbGllbnRfY29kZV9jaGFsbGVuZ2UiOiAiUUxNVGNBTEtYX3NIcnRPcTJuWmtTYlp3TDNFSnRPWHNlNC1ocTBiMWp4ayIsICJjbGllbnRfaWQiOiAia2ZmNUpiVlVhZ2xsOUZHSVQ4UnJ2USIsICJwYV9jb2RlX3ZlcmlmaWVyIjogIlB6MXlQdlFJOUtyd1hLMVFGX0JQU1lDYl9iel9JRXBNbmlaTUo2Tl9BeWMiLCAiY3JlYXRlZF9hdCI6IDE3ODM4ODYxNTEuMDUxMTY3Mn0&resource=https%3A//mcp.wiv.ai/sse&code_challenge=F_0gdJrN6u8UWS3f-mfXQDxzIutKk73KCZYb4k43uMc&code_challenge_method=S256",
+    "state_raw": "eyJmbG93IjogIm1jcF9vYXV0aCIsICJjbGllbnRfcmVkaXJlY3RfdXJpIjogImh0dHBzOi8vY2xhdWRlLmFpL2FwaS9tY3AvYXV0...",
+    "state_decoded": "{\"flow\": \"mcp_oauth\", \"client_redirect_uri\": \"https://claude.ai/api/mcp/auth_callback\", \"client_state\": \"6400f05671684429\", \"client_code_challenge\": \"QLMTcALKX_sHrtOq2nZkSbZwL3EJtOXse4-hq0b1jxk\", \"client_id\": \"kff5JbVUagll9FGIT8RrvQ\", \"pa_code_verifier\": \"Pz1yPvQI9KrwXK1QF_BPSYCb_bz_IEpMniZMJ6N_Ayc\", \"created_at\": 1783886151.0511672}"
+  },
+  {
+    "domain": "psyke.co",
+    "redirect_location": "https://auth.psyke.co/oauth2/authorize?client_id=9e338e6a-89d9-4006-83d8-21654beb1129&response_type=code&redirect_uri=https%3A%2F%2Fmcp.psyke.co%2Foauth%2Fcallback&state=eyJjbGllbnRfaWQiOiIzZjI5YzY0NDVkZWRhOWNkNjZiMjc1ZTE0MjI0N2Y2OTVkNjgyZGNkNWJiOTYwMGVkODJiMmIxNGY3ZTk4Y2YwIiwicmVkaXJlY3RfdXJpIjoiaHR0cHM6Ly9jbGF1ZGUuYWkvYXBpL21jcC9hdXRoX2NhbGxiYWNrIiwiY29kZV9jaGFsbGVuZ2UiOiJJZHo1ZnUyNG1aX2o5QWswd3NzNHdEenRIbkFOUWpEZFlDWFVrN3BRTU5ZIiwiY29kZV9jaGFsbGVuZ2VfbWV0aG9kIjoiUzI1NiIsInN0YXRlIjoiYjJlZmMxYWE4NzhmNGIwZCJ9&scope=openid+offline_access",
+    "state_raw": "eyJjbGllbnRfaWQiOiIzZjI5YzY0NDVkZWRhOWNkNjZiMjc1ZTE0MjI0N2Y2OTVkNjgyZGNkNWJiOTYwMGVkODJiMmIxNGY3ZTk4...",
+    "state_decoded": "{\"client_id\":\"3f29c6445deda9cd66b275e142247f695d682dcd5bb9600ed82b2b14f7e98cf0\",\"redirect_uri\":\"https://claude.ai/api/mcp/auth_callback\",\"code_challenge\":\"Idz5fu24mZ_j9Ak0wss4wDztHnANQjDdYCXUk7pQMNY\",\"code_challenge_method\":\"S256\",\"state\":\"b2efc1aa878f4b0d\"}"
+  }
+]
